@@ -1,0 +1,25 @@
+body {
+    font-size: 12pt;
+    background-color: lightblue;
+    width: 100%;
+}
+
+nav {
+    font-size: 2rem;
+    text-align: center;
+    margin: 5rem;
+    padding: 3rem;
+}
+
+header {
+    font-size: 3rem;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+footer {
+    font-size: 0.8rem;
+}
