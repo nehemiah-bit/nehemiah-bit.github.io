@@ -6,9 +6,23 @@ body {
 
 nav {
     font-size: 2rem;
+    background-color: blueviolet;
     text-align: center;
-    margin: 3rem;
-    padding: 2rem;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.link {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding-left: 4px;
+    padding-right: 4px;
+    border: 2px solid blue;
+}
+
+date {
+    text-align: right;
+    margin-left: 1rem;
 }
 
 header {
